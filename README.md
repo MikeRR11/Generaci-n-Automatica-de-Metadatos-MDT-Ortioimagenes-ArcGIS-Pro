@@ -1,4 +1,4 @@
-# Generación Automatica de Metadatos MDT y Ortioimagenes para ArcGIS Pro
+# Generación Automática de Metadatos MDT y Ortioimagenes para ArcGIS Pro
 
 ## Descripción
 Este proyecto automatiza la generación de metadatos para Modelos Digitales de Terreno (MDT) y Ortoimágenes utilizando la librería ArcPy y los estándares internacionales de metadatos geográficos (ISO 19115 e ISO 19139). Incluye configuraciones específicas de la organización, palabras clave relacionadas con temas geoespaciales, exportación en formato XML, creación de miniaturas (thumbnails) y generación de PDF del metadato.
