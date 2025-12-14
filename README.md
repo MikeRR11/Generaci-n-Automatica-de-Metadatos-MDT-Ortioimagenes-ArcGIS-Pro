@@ -38,8 +38,6 @@ Para visualizar el proceso, aquí se incluyen ejemplos de capturas de pantalla y
 - **Diagrama del flujo de generación de metadatos**:
   ![Flujo de metadatos](images/flujo_metadatos.png)
 
-- **Ejemplo de thumbnail generado**:
-  ![Thumbnail ejemplo](images/thumbnail_ejemplo.png)
 
 ## Notas
 - Este script utiliza namespaces definidos por ISO 19115 para la manipulación de metadatos en formato XML.
